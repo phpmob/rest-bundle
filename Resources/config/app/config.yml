@@ -1,0 +1,5 @@
+phpmob_rest:
+    resources:
+        api_user:
+            classes:
+                model: "%sylius.model.admin_user.class%"
